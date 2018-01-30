@@ -1,2 +1,2 @@
-# Conex-o-no-Banco-de-Dados-em-JAVA
-Efetuar login, cadastrar usuários, produtos e excluir dados do BD
+# Conexao-no-Banco-de-Dados-pelo-JAVA
+Efetuar login, cadastrar usuários, produtos e excluir dados do Banco de Dados
